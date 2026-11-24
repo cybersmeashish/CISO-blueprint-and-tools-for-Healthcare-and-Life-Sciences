@@ -1,0 +1,22 @@
+{
+  "checked_at_utc": "2026-11-24T07:24:52.240795+00:00",
+  "repository": "CISO-blueprint-and-tools-for-Healthcare-and-Life-Sciences",
+  "industry": "Healthcare & Life Sciences",
+  "sector_folders": 3,
+  "folder_names": [
+    "Healthcare Providers & Payers",
+    "Pharmaceuticals & Biotech",
+    "Medical Devices (MedTech)"
+  ],
+  "local_links_checked": 10,
+  "source_files_hashed": 13,
+  "migrations": [],
+  "runtime": {
+    "python": "3.12.16",
+    "system": "Linux",
+    "machine": "aarch64"
+  },
+  "root_read_only": true,
+  "workspace_read_only": true,
+  "scope": "structure/link and migration byte checks; no sector-control, deployment or compliance tests"
+}

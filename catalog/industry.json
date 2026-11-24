@@ -1,0 +1,24 @@
+{
+  "id": 6,
+  "title": "Healthcare & Life Sciences",
+  "slug": "CISO-blueprint-and-tools-for-Healthcare-and-Life-Sciences",
+  "container": "ciso-industry-6-dev",
+  "volume": "ciso-industry-6-workspace",
+  "sectors": [
+    {
+      "title": "Healthcare Providers & Payers",
+      "folder": "Healthcare Providers & Payers",
+      "scope": "Hospitals, clinics, diagnostic labs, health insurance, and telemedicine."
+    },
+    {
+      "title": "Pharmaceuticals & Biotech",
+      "folder": "Pharmaceuticals & Biotech",
+      "scope": "Drug discovery, clinical trials, vaccine manufacturing, and genomics."
+    },
+    {
+      "title": "Medical Devices (MedTech)",
+      "folder": "Medical Devices (MedTech)",
+      "scope": "Surgical instruments, imaging equipment, and wearable health monitors."
+    }
+  ]
+}

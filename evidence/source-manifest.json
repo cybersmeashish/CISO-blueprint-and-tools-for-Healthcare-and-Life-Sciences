@@ -1,0 +1,15 @@
+{
+  ".gitignore": "9b58848d6b86ddfc5d6d29f6b1bfb0e00033ee696c0bee5240189ff97cb39d49",
+  "AGENTS.md": "54c2ffbead9d60bd3ff92c33fc65123e8975cd4eea1bd551b3e2581aaf9f2556",
+  "CONTRIBUTING.md": "bdb967534cc379bd1980b80c04bef19f3e4700ce96691e959a3f2fabd717cf88",
+  "Healthcare Providers & Payers/README.md": "6c74579f94217c29f1d00b6e7a9fe2cee9375b6a4bbcfa73ae547c3a62703d70",
+  "INDUSTRY-PORTFOLIO.md": "34bc40c45251ea439544ea1513b5d2646050e79867e4c1827eb695bc55edd469",
+  "LICENSE": "4df23e737915f9b62c5430b633e6b74104f5c9f9f154cc93e9fe89318f84b5b0",
+  "Medical Devices (MedTech)/README.md": "e3ccf0b2f58720ffeed771676aea90adb0e37863da4a8500c28d34f5ba602513",
+  "Pharmaceuticals & Biotech/README.md": "e82721426f84a48d34d2fcb66420aef458bef56020075ea67909e0e7efec8dfc",
+  "README.md": "91d25619ecd0512c3f40d3d9ee5a5390f6b19b3811e76c54244485bdc177abd1",
+  "SECURITY.md": "660145df75390defa74061bdadde1c6c18d5757987e1ef9b7bef2c2d6e14af91",
+  "catalog/industry.json": "23c922b13488198905f1ee2baa1e0c9380e0e16df9486cb07cc6b9184582a453",
+  "tools/README.md": "b1a841f297b3ff634258cdacbbd49c48f4fe787648a83a7499d1591c078cc9b5",
+  "tools/check_catalog.py": "7622855182148aa4d09231281ee93da90973e41cc879d770e8b930ec30a4cf70"
+}
